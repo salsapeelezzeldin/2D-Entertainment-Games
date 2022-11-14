@@ -1,6 +1,6 @@
 <h1 align="center">2D Entertainment Games</h1> 
   <p align="center"> 
-    Gemes were developed using C# and Unity.
+    Games were developed using C# and Unity.
   </p>
   
  <br> 
